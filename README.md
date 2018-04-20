@@ -15,7 +15,7 @@ If the user clicks on an image they're already clicked on in the current round, 
 The application keeps track of the users Best Score, and updates it when the user achieves a new Best Score.
 
 
-View deployed app here: clickygame
+View deployed app here: http://reverent-goldberg-37c936.netlify.com/
 
 Technologies Used
 

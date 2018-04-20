@@ -14,6 +14,9 @@ If the user clicks on an image they're already clicked on in the current round, 
 
 The application keeps track of the users Best Score, and updates it when the user achieves a new Best Score.
 
+
+View deployed app here: clickygame
+
 Technologies Used
 
 React
@@ -25,6 +28,7 @@ HTML
 CSS
 
 Node.js
+
 
 
 
